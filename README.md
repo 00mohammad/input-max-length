@@ -47,7 +47,7 @@ A simple web project that demonstrates how to use the `maxlength` attribute in a
 ---
 
 ## 🎬 Demo Video
-[Watch the demo](./public/img/Recording.mp4)
+[Demo Video](./public/img/Recording.mp4)
 
 
 ### ⭐ If you like this project, don’t forget to star the repo!
